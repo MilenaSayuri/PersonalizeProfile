@@ -41,13 +41,13 @@
 <!-- Estatísticas -->
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MilenaSayuri&theme=omni" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MilenaSayuri&theme=omni&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" height="200"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MilenaSayuri&theme=omni" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MilenaSayuri&theme=omni&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" height="150"/>
 </div>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MilenaSayuri&theme=omni" height="200"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MilenaSayuri&theme=omni" height="200"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MilenaSayuri&theme=omni" height="150"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MilenaSayuri&theme=omni" height="150"/>
 </div>
 
 ---
