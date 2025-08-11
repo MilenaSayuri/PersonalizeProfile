@@ -2,25 +2,30 @@
   <b>`プログラマ`</b>
 </p>
 
+<a href="https://git.io/typing-svg">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=F70076&center=true&multiline=true&repeat=false&width=200&height=50&lines=Ol%C3%A1%2C+me+chamo+Milena" 
+    alt="Typing SVG" 
+  />
+</a>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=F70076&center=true&multiline=true&repeat=false&width=800&height=150&lines=%F0%9F%91%8B+Ol%C3%A1!+Bem-vindo(a)+ao+meu+GitHub!;%F0%9F%8C%B8Me+chamo+Milena;%F0%9F%8E%AFTenho+como+objetivo+me+tornar+QA;%F0%9F%91%BEApaixonada+por+animais%2C+jogos+e+animes.;%F0%9F%8E%A8%F0%9F%96%8C%EF%B8%8FAmo+mexer+com+Impress%C3%A3o+3D+e+pintar;%F0%9F%91%A9%E2%80%8D%F0%9F%92%BBAqui+voc%C3%AA+encontrar%C3%A1+projetos+pessoais+e+estudos+;%F0%9F%8C%9FConfira+meus+projetos+mais+recentes%3A" alt="Typing SVG"
-    />
-  </a>
-    <p align="center">
-  <br />
-    <a href="https://github.com/MilenaSayuri/projeto-1">Projeto 1</a> | 
-    <a href="https://github.com/MilenaSayuri/projeto-2">Projeto 2</a> | 
-    <a href="https://github.com/MilenaSayuri/projeto-3">Projeto 3</a>
-  </p>
-  </a>
+<img align="right" alt="" height="250px" src="https://i.imgur.com/yXz9FzS.gif" />
+
+<p style="font-family: monospace; color: #F70076; max-width: 800px;" align="left">
+  🌸 Atualmente estudo na Fatec Ipiranga e estou cursando Análise e Desenvolvimento de Sistemas<br />
+  🎯 Tenho como objetivo me tornar QA<br />
+  👾 Apaixonada por animais, jogos e animes.<br />
+  🎨🖌️ Amo mexer com Impressão 3D e pintar<br />
+  👩‍💻 Aqui você encontrará projetos pessoais e estudos;<br />
+  🌙 Confira meus projetos mais recentes:
 </p>
+
+<p align="left" style="max-width: 800px;">
+  <a href="https://github.com/MilenaSayuri/ConversorArquivo">Conversor de Arquivos</a> | 
+  <a href="https://github.com/MilenaSayuri/GeradorSenhas">Gerador de Senhas</a> | 
 </p>
 
 
----
 
 
 <!-- Contador centralizado -->
@@ -30,10 +35,6 @@
        style="width: 200px; height: auto;"/>
 </p>
 
-<!-- GIF centralizada -->
-<p align="center">
-  <img src="https://i.imgur.com/yXz9FzS.gif" alt="Gif fofo" width="500" />
-</p>
 
 ---
 
